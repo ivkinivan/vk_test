@@ -1,0 +1,6 @@
+Makefile
+*.o
+main
+.settings/
+.project
+.cproject
